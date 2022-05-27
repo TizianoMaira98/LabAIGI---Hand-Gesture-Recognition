@@ -1,1 +1,1 @@
-# LabAIGI - Hande Gesture Recognition
+# LabAIGI - Hand Gesture Recognition
