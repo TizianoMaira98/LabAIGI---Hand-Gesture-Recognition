@@ -1,2 +1,2 @@
 # LabAIGI - Hand Gesture Recognition
-Dataset used: https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html
+This program aims to be able to recognize a hand gesture represented in a photo, amongst a number of know hand gestures.
