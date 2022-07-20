@@ -4,6 +4,5 @@ This program aims to be able to recognize a hand gesture represented in a photo,
 * PyTorch
 * Numpy
 * MatPlotLib
-## Planned
-* Initial menu to customize running options
-* Exit menu with the option to either exit, run again loading the last saved model (weights) or run again discarding previous trainings
+## Dataset
+The dataset used can be found here: https://www.kaggle.com/datasets/datamunge/sign-language-mnist?select=sign_mnist_train
