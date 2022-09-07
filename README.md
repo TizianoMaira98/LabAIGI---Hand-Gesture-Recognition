@@ -24,7 +24,7 @@ Compression settings used:
 * Dictionary Size: 64 (MyCNN); 128+ (MyAlexNet)
 * Dictionary Size: 64 (MyCNN); 128+ (MyAlexNet)
 * Solid Block Size: 4 (MyCNN); 128+ (MyAlexNet)  
-(N.B: sizes provided for my MyAlexNet may prove imprecise, due to author's bad memory)
+(N.B: sizes provided for my MyAlexNet may prove imprecise, due to author's bad memory)  
 This annoingly intricate requirements may be eliminated by implementing a way to give the path to a folder containing the weights and/or the dataset, but no such system exists in the current release.
 ## Performances study
 Both models where tested after training with a different number of given epochs, so that we can compare the general performances.
